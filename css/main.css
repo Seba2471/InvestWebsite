@@ -108,7 +108,7 @@ h1.company-name {
   position: relative;
   height: 100%;
   width: 100%;
-  background-image: url("/img/header.jpg");
+  background-image: url("../img/header.jpg");
   background-size: cover;
   background-position: center;
   filter: sepia();
@@ -572,7 +572,7 @@ h1.company-name {
   .header__img {
     grid-row: 1/4;
     grid-column: 2/3;
-    background-image: url("/img/headerBig.JPG");
+    background-image: url("../img/headerBig.jpg");
   }
   .header__arrow {
     display: block;
